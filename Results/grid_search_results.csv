@@ -1,0 +1,9 @@
+model,best_params,best_f1_score
+LogisticRegression,"{'C': 0.01, 'penalty': 'l1', 'solver': 'saga'}",0.5333333333333333
+BernoulliNB,{'binarize': 0.0},0.5204046687411397
+MultinomialNB,{'alpha': 1.0},0.5190552204037985
+LinearSVC,"{'C': 0.1, 'class_weight': 'balanced'}",0.5173664988318792
+KNeighborsClassifier,"{'metric': 'minkowski', 'n_neighbors': 3}",0.6241163941808916
+RandomForestClassifier,"{'max_depth': None, 'min_samples_split': 10, 'n_estimators': 200}",0.5125440092028197
+GradientBoostingClassifier,"{'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 500}",0.5071613188577332
+MLPClassifier,"{'alpha': 0.0001, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.0001}",0.5400232954216573
