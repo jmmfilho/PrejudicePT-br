@@ -1,0 +1,2 @@
+
+Tempo total de execução: 1.42 minutos

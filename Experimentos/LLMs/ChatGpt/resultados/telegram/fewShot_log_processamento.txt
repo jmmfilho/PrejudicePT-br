@@ -1,0 +1,12 @@
+../datasets/telegram/parte_1_telegram.csv -> ./resultados/telegram/few_shot_parte_1.csv | Tempo: 0.14 min | Prompt tokens: 5828 | Saída tokens: 356 | Total tokens: 6184
+../datasets/telegram/parte_2_telegram.csv -> ./resultados/telegram/few_shot_parte_2.csv | Tempo: 0.14 min | Prompt tokens: 5960 | Saída tokens: 356 | Total tokens: 6316
+../datasets/telegram/parte_3_telegram.csv -> ./resultados/telegram/few_shot_parte_3.csv | Tempo: 0.14 min | Prompt tokens: 5040 | Saída tokens: 356 | Total tokens: 5396
+../datasets/telegram/parte_4_telegram.csv -> ./resultados/telegram/few_shot_parte_4.csv | Tempo: 0.13 min | Prompt tokens: 5173 | Saída tokens: 356 | Total tokens: 5529
+../datasets/telegram/parte_5_telegram.csv -> ./resultados/telegram/few_shot_parte_5.csv | Tempo: 0.13 min | Prompt tokens: 5101 | Saída tokens: 356 | Total tokens: 5457
+../datasets/telegram/parte_6_telegram.csv -> ./resultados/telegram/few_shot_parte_6.csv | Tempo: 0.13 min | Prompt tokens: 5240 | Saída tokens: 356 | Total tokens: 5596
+../datasets/telegram/parte_7_telegram.csv -> ./resultados/telegram/few_shot_parte_7.csv | Tempo: 0.14 min | Prompt tokens: 5731 | Saída tokens: 356 | Total tokens: 6087
+../datasets/telegram/parte_8_telegram.csv -> ./resultados/telegram/few_shot_parte_8.csv | Tempo: 0.15 min | Prompt tokens: 5607 | Saída tokens: 356 | Total tokens: 5963
+../datasets/telegram/parte_9_telegram.csv -> ./resultados/telegram/few_shot_parte_9.csv | Tempo: 0.14 min | Prompt tokens: 5272 | Saída tokens: 356 | Total tokens: 5628
+../datasets/telegram/parte_10_telegram.csv -> ./resultados/telegram/few_shot_parte_10.csv | Tempo: 0.16 min | Prompt tokens: 5955 | Saída tokens: 356 | Total tokens: 6311
+../datasets/telegram/parte_11_telegram.csv -> ./resultados/telegram/few_shot_parte_11.csv | Tempo: 0.15 min | Prompt tokens: 5025 | Saída tokens: 356 | Total tokens: 5381
+../datasets/telegram/parte_12_telegram.csv -> ./resultados/telegram/few_shot_parte_12.csv | Tempo: 0.18 min | Prompt tokens: 5963 | Saída tokens: 356 | Total tokens: 6319

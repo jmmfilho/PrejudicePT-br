@@ -1,0 +1,2 @@
+
+Tempo total de execução (FEW-SHOT): 0.31 minutos

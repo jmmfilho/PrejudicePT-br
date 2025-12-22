@@ -1,0 +1,12 @@
+../datasets/wpp/parte_1_wpp.csv -> ./resultados/wpp/few_shot_mais_parte_1.csv | Tempo: 0.21 min | Prompt tokens: 6057 | Saída tokens: 356 | Total tokens: 6413
+../datasets/wpp/parte_2_wpp.csv -> ./resultados/wpp/few_shot_mais_parte_2.csv | Tempo: 0.20 min | Prompt tokens: 5423 | Saída tokens: 356 | Total tokens: 5779
+../datasets/wpp/parte_3_wpp.csv -> ./resultados/wpp/few_shot_mais_parte_3.csv | Tempo: 0.19 min | Prompt tokens: 5452 | Saída tokens: 356 | Total tokens: 5808
+../datasets/wpp/parte_4_wpp.csv -> ./resultados/wpp/few_shot_mais_parte_4.csv | Tempo: 0.18 min | Prompt tokens: 4868 | Saída tokens: 356 | Total tokens: 5224
+../datasets/wpp/parte_5_wpp.csv -> ./resultados/wpp/few_shot_mais_parte_5.csv | Tempo: 0.15 min | Prompt tokens: 4945 | Saída tokens: 356 | Total tokens: 5301
+../datasets/wpp/parte_6_wpp.csv -> ./resultados/wpp/few_shot_mais_parte_6.csv | Tempo: 0.15 min | Prompt tokens: 5060 | Saída tokens: 356 | Total tokens: 5416
+../datasets/wpp/parte_7_wpp.csv -> ./resultados/wpp/few_shot_mais_parte_7.csv | Tempo: 0.15 min | Prompt tokens: 4920 | Saída tokens: 356 | Total tokens: 5276
+../datasets/wpp/parte_8_wpp.csv -> ./resultados/wpp/few_shot_mais_parte_8.csv | Tempo: 0.19 min | Prompt tokens: 6092 | Saída tokens: 356 | Total tokens: 6448
+../datasets/wpp/parte_9_wpp.csv -> ./resultados/wpp/few_shot_mais_parte_9.csv | Tempo: 0.17 min | Prompt tokens: 4904 | Saída tokens: 356 | Total tokens: 5260
+../datasets/wpp/parte_10_wpp.csv -> ./resultados/wpp/few_shot_mais_parte_10.csv | Tempo: 0.18 min | Prompt tokens: 5813 | Saída tokens: 356 | Total tokens: 6169
+../datasets/wpp/parte_11_wpp.csv -> ./resultados/wpp/few_shot_mais_parte_11.csv | Tempo: 0.14 min | Prompt tokens: 5624 | Saída tokens: 356 | Total tokens: 5980
+../datasets/wpp/parte_12_wpp.csv -> ./resultados/wpp/few_shot_mais_parte_12.csv | Tempo: 0.15 min | Prompt tokens: 5516 | Saída tokens: 356 | Total tokens: 5872

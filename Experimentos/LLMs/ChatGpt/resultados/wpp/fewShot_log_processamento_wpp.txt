@@ -1,0 +1,12 @@
+../datasets/wpp/parte_1_wpp.csv -> ./resultados/wpp/few_shot_parte_1.csv | Tempo: 0.10 min | Prompt tokens: 5180 | Saída tokens: 356 | Total tokens: 5536
+../datasets/wpp/parte_2_wpp.csv -> ./resultados/wpp/few_shot_parte_2.csv | Tempo: 0.11 min | Prompt tokens: 4546 | Saída tokens: 356 | Total tokens: 4902
+../datasets/wpp/parte_3_wpp.csv -> ./resultados/wpp/few_shot_parte_3.csv | Tempo: 0.13 min | Prompt tokens: 4575 | Saída tokens: 356 | Total tokens: 4931
+../datasets/wpp/parte_4_wpp.csv -> ./resultados/wpp/few_shot_parte_4.csv | Tempo: 0.11 min | Prompt tokens: 3991 | Saída tokens: 356 | Total tokens: 4347
+../datasets/wpp/parte_5_wpp.csv -> ./resultados/wpp/few_shot_parte_5.csv | Tempo: 0.11 min | Prompt tokens: 4068 | Saída tokens: 356 | Total tokens: 4424
+../datasets/wpp/parte_6_wpp.csv -> ./resultados/wpp/few_shot_parte_6.csv | Tempo: 0.10 min | Prompt tokens: 4183 | Saída tokens: 356 | Total tokens: 4539
+../datasets/wpp/parte_7_wpp.csv -> ./resultados/wpp/few_shot_parte_7.csv | Tempo: 0.10 min | Prompt tokens: 4043 | Saída tokens: 356 | Total tokens: 4399
+../datasets/wpp/parte_8_wpp.csv -> ./resultados/wpp/few_shot_parte_8.csv | Tempo: 0.11 min | Prompt tokens: 5215 | Saída tokens: 356 | Total tokens: 5571
+../datasets/wpp/parte_9_wpp.csv -> ./resultados/wpp/few_shot_parte_9.csv | Tempo: 0.10 min | Prompt tokens: 4027 | Saída tokens: 356 | Total tokens: 4383
+../datasets/wpp/parte_10_wpp.csv -> ./resultados/wpp/few_shot_parte_10.csv | Tempo: 0.11 min | Prompt tokens: 4936 | Saída tokens: 356 | Total tokens: 5292
+../datasets/wpp/parte_11_wpp.csv -> ./resultados/wpp/few_shot_parte_11.csv | Tempo: 0.13 min | Prompt tokens: 4747 | Saída tokens: 356 | Total tokens: 5103
+../datasets/wpp/parte_12_wpp.csv -> ./resultados/wpp/few_shot_parte_12.csv | Tempo: 0.11 min | Prompt tokens: 4639 | Saída tokens: 356 | Total tokens: 4995
