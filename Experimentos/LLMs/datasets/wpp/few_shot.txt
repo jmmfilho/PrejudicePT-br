@@ -1,5 +1,5 @@
 
-Classifique os textos a seguir em 0 (não preconceito) ou 1 (preconceito). Não precisa de explicação, apenas rotule. Abaixo tem alguns exemplos de textos que contém preconceito e o que não contém preconceito
+Classifique os textos a seguir em 0 (não preconceito) ou 1 (preconceito). Não precisa de explicação, apenas rotule. Responda APENAS com JSON válido. Abaixo tem alguns exemplos de textos que contém preconceito e o que não contém preconceito
 
 Exemplos com rótulo 1 (preconceito):
 

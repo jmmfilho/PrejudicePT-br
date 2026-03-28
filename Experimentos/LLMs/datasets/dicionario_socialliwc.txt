@@ -1,5 +1,3 @@
-Você é um linguista especializado em análise de discurso e preconceito textual.  
-Sua tarefa é identificar se os textos contêm discurso de ódio, preconceito ou discriminação. 
 
 
 Use como referência o dicionário PREJUDICEPT.br, que contém categorias e exemplos de palavras indicativas de preconceito.  

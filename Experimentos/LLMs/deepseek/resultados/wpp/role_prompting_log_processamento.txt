@@ -1,0 +1,12 @@
+../datasets/wpp/parte_1_wpp.csv -> ./resultados/wpp/prompt_role_prompting_parte_1.csv | Tempo: 0.26 min | Prompt tokens: 5152 | Saída tokens: 356 | Total tokens: 5508
+../datasets/wpp/parte_2_wpp.csv -> ./resultados/wpp/prompt_role_prompting_parte_2.csv | Tempo: 0.27 min | Prompt tokens: 4414 | Saída tokens: 356 | Total tokens: 4770
+../datasets/wpp/parte_3_wpp.csv -> ./resultados/wpp/prompt_role_prompting_parte_3.csv | Tempo: 0.26 min | Prompt tokens: 4489 | Saída tokens: 356 | Total tokens: 4845
+../datasets/wpp/parte_4_wpp.csv -> ./resultados/wpp/prompt_role_prompting_parte_4.csv | Tempo: 0.27 min | Prompt tokens: 3817 | Saída tokens: 356 | Total tokens: 4173
+../datasets/wpp/parte_5_wpp.csv -> ./resultados/wpp/prompt_role_prompting_parte_5.csv | Tempo: 0.26 min | Prompt tokens: 3938 | Saída tokens: 356 | Total tokens: 4294
+../datasets/wpp/parte_6_wpp.csv -> ./resultados/wpp/prompt_role_prompting_parte_6.csv | Tempo: 0.26 min | Prompt tokens: 4007 | Saída tokens: 356 | Total tokens: 4363
+../datasets/wpp/parte_7_wpp.csv -> ./resultados/wpp/prompt_role_prompting_parte_7.csv | Tempo: 0.27 min | Prompt tokens: 3804 | Saída tokens: 356 | Total tokens: 4160
+../datasets/wpp/parte_8_wpp.csv -> ./resultados/wpp/prompt_role_prompting_parte_8.csv | Tempo: 0.27 min | Prompt tokens: 5112 | Saída tokens: 356 | Total tokens: 5468
+../datasets/wpp/parte_9_wpp.csv -> ./resultados/wpp/prompt_role_prompting_parte_9.csv | Tempo: 0.26 min | Prompt tokens: 3810 | Saída tokens: 356 | Total tokens: 4166
+../datasets/wpp/parte_10_wpp.csv -> ./resultados/wpp/prompt_role_prompting_parte_10.csv | Tempo: 0.28 min | Prompt tokens: 4909 | Saída tokens: 356 | Total tokens: 5265
+../datasets/wpp/parte_11_wpp.csv -> ./resultados/wpp/prompt_role_prompting_parte_11.csv | Tempo: 0.27 min | Prompt tokens: 4643 | Saída tokens: 356 | Total tokens: 4999
+../datasets/wpp/parte_12_wpp.csv -> ./resultados/wpp/prompt_role_prompting_parte_12.csv | Tempo: 0.27 min | Prompt tokens: 4564 | Saída tokens: 356 | Total tokens: 4920

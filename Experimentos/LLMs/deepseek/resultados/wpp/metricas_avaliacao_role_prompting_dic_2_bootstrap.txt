@@ -1,0 +1,8 @@
+ MÉTRICAS DE AVALIAÇÃO COM BOOTSTRAP (LLM vs Anotadores)
+
+Total de exemplos avaliados: 600
+Accuracy: 0.8716 ± 0.0132
+Precision: 0.8885 ± 0.0182
+Recall: 0.8503 ± 0.0209
+F1: 0.8687 ± 0.0145
+Auc: 0.8717 ± 0.0132

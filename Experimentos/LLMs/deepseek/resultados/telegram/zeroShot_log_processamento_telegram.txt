@@ -1,0 +1,12 @@
+../datasets/telegram/parte_1_telegram.csv -> ./resultados/telegram/zero_shot_parte_1.csv | Tempo: 0.23 min | Prompt tokens: 5380 | Saída tokens: 356 | Total tokens: 5736
+../datasets/telegram/parte_2_telegram.csv -> ./resultados/telegram/zero_shot_parte_2.csv | Tempo: 0.24 min | Prompt tokens: 5424 | Saída tokens: 356 | Total tokens: 5780
+../datasets/telegram/parte_3_telegram.csv -> ./resultados/telegram/zero_shot_parte_3.csv | Tempo: 0.24 min | Prompt tokens: 4440 | Saída tokens: 356 | Total tokens: 4796
+../datasets/telegram/parte_4_telegram.csv -> ./resultados/telegram/zero_shot_parte_4.csv | Tempo: 0.25 min | Prompt tokens: 4553 | Saída tokens: 356 | Total tokens: 4909
+../datasets/telegram/parte_5_telegram.csv -> ./resultados/telegram/zero_shot_parte_5.csv | Tempo: 0.24 min | Prompt tokens: 4533 | Saída tokens: 356 | Total tokens: 4889
+../datasets/telegram/parte_6_telegram.csv -> ./resultados/telegram/zero_shot_parte_6.csv | Tempo: 0.24 min | Prompt tokens: 4614 | Saída tokens: 356 | Total tokens: 4970
+../datasets/telegram/parte_7_telegram.csv -> ./resultados/telegram/zero_shot_parte_7.csv | Tempo: 0.25 min | Prompt tokens: 5191 | Saída tokens: 356 | Total tokens: 5547
+../datasets/telegram/parte_8_telegram.csv -> ./resultados/telegram/zero_shot_parte_8.csv | Tempo: 0.25 min | Prompt tokens: 5086 | Saída tokens: 356 | Total tokens: 5442
+../datasets/telegram/parte_9_telegram.csv -> ./resultados/telegram/zero_shot_parte_9.csv | Tempo: 0.24 min | Prompt tokens: 4663 | Saída tokens: 356 | Total tokens: 5019
+../datasets/telegram/parte_10_telegram.csv -> ./resultados/telegram/zero_shot_parte_10.csv | Tempo: 0.24 min | Prompt tokens: 5426 | Saída tokens: 356 | Total tokens: 5782
+../datasets/telegram/parte_11_telegram.csv -> ./resultados/telegram/zero_shot_parte_11.csv | Tempo: 0.24 min | Prompt tokens: 4398 | Saída tokens: 356 | Total tokens: 4754
+../datasets/telegram/parte_12_telegram.csv -> ./resultados/telegram/zero_shot_parte_12.csv | Tempo: 0.23 min | Prompt tokens: 5459 | Saída tokens: 356 | Total tokens: 5815

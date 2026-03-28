@@ -1,0 +1,12 @@
+../datasets/telegram/parte_1_telegram.csv -> ./resultados/telegram/prompt_role_prompting_parte_1.csv | Tempo: 0.24 min | Prompt tokens: 5532 | Saída tokens: 356 | Total tokens: 5888
+../datasets/telegram/parte_2_telegram.csv -> ./resultados/telegram/prompt_role_prompting_parte_2.csv | Tempo: 0.26 min | Prompt tokens: 5576 | Saída tokens: 356 | Total tokens: 5932
+../datasets/telegram/parte_3_telegram.csv -> ./resultados/telegram/prompt_role_prompting_parte_3.csv | Tempo: 0.23 min | Prompt tokens: 4592 | Saída tokens: 356 | Total tokens: 4948
+../datasets/telegram/parte_4_telegram.csv -> ./resultados/telegram/prompt_role_prompting_parte_4.csv | Tempo: 0.23 min | Prompt tokens: 4705 | Saída tokens: 356 | Total tokens: 5061
+../datasets/telegram/parte_5_telegram.csv -> ./resultados/telegram/prompt_role_prompting_parte_5.csv | Tempo: 0.22 min | Prompt tokens: 4685 | Saída tokens: 356 | Total tokens: 5041
+../datasets/telegram/parte_6_telegram.csv -> ./resultados/telegram/prompt_role_prompting_parte_6.csv | Tempo: 0.28 min | Prompt tokens: 4766 | Saída tokens: 356 | Total tokens: 5122
+../datasets/telegram/parte_7_telegram.csv -> ./resultados/telegram/prompt_role_prompting_parte_7.csv | Tempo: 0.23 min | Prompt tokens: 5343 | Saída tokens: 356 | Total tokens: 5699
+../datasets/telegram/parte_8_telegram.csv -> ./resultados/telegram/prompt_role_prompting_parte_8.csv | Tempo: 0.23 min | Prompt tokens: 5238 | Saída tokens: 356 | Total tokens: 5594
+../datasets/telegram/parte_9_telegram.csv -> ./resultados/telegram/prompt_role_prompting_parte_9.csv | Tempo: 0.23 min | Prompt tokens: 4815 | Saída tokens: 356 | Total tokens: 5171
+../datasets/telegram/parte_10_telegram.csv -> ./resultados/telegram/prompt_role_prompting_parte_10.csv | Tempo: 0.24 min | Prompt tokens: 5578 | Saída tokens: 356 | Total tokens: 5934
+../datasets/telegram/parte_11_telegram.csv -> ./resultados/telegram/prompt_role_prompting_parte_11.csv | Tempo: 0.22 min | Prompt tokens: 4550 | Saída tokens: 356 | Total tokens: 4906
+../datasets/telegram/parte_12_telegram.csv -> ./resultados/telegram/prompt_role_prompting_parte_12.csv | Tempo: 0.22 min | Prompt tokens: 5611 | Saída tokens: 356 | Total tokens: 5967

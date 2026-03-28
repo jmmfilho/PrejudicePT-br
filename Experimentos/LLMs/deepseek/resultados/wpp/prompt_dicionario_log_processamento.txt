@@ -1,0 +1,12 @@
+../datasets/wpp/parte_1_wpp.csv -> ./resultados/wpp/prompt_dicionario_parte_1.csv | Tempo: 0.23 min | Prompt tokens: 8944 | Saída tokens: 356 | Total tokens: 9300
+../datasets/wpp/parte_2_wpp.csv -> ./resultados/wpp/prompt_dicionario_parte_2.csv | Tempo: 0.24 min | Prompt tokens: 8206 | Saída tokens: 356 | Total tokens: 8562
+../datasets/wpp/parte_3_wpp.csv -> ./resultados/wpp/prompt_dicionario_parte_3.csv | Tempo: 0.23 min | Prompt tokens: 8281 | Saída tokens: 356 | Total tokens: 8637
+../datasets/wpp/parte_4_wpp.csv -> ./resultados/wpp/prompt_dicionario_parte_4.csv | Tempo: 0.25 min | Prompt tokens: 7609 | Saída tokens: 356 | Total tokens: 7965
+../datasets/wpp/parte_5_wpp.csv -> ./resultados/wpp/prompt_dicionario_parte_5.csv | Tempo: 0.27 min | Prompt tokens: 7730 | Saída tokens: 356 | Total tokens: 8086
+../datasets/wpp/parte_6_wpp.csv -> ./resultados/wpp/prompt_dicionario_parte_6.csv | Tempo: 0.27 min | Prompt tokens: 7799 | Saída tokens: 356 | Total tokens: 8155
+../datasets/wpp/parte_7_wpp.csv -> ./resultados/wpp/prompt_dicionario_parte_7.csv | Tempo: 0.29 min | Prompt tokens: 7596 | Saída tokens: 356 | Total tokens: 7952
+../datasets/wpp/parte_8_wpp.csv -> ./resultados/wpp/prompt_dicionario_parte_8.csv | Tempo: 0.28 min | Prompt tokens: 8904 | Saída tokens: 356 | Total tokens: 9260
+../datasets/wpp/parte_9_wpp.csv -> ./resultados/wpp/prompt_dicionario_parte_9.csv | Tempo: 0.27 min | Prompt tokens: 7602 | Saída tokens: 356 | Total tokens: 7958
+../datasets/wpp/parte_10_wpp.csv -> ./resultados/wpp/prompt_dicionario_parte_10.csv | Tempo: 0.29 min | Prompt tokens: 8701 | Saída tokens: 356 | Total tokens: 9057
+../datasets/wpp/parte_11_wpp.csv -> ./resultados/wpp/prompt_dicionario_parte_11.csv | Tempo: 0.28 min | Prompt tokens: 8435 | Saída tokens: 356 | Total tokens: 8791
+../datasets/wpp/parte_12_wpp.csv -> ./resultados/wpp/prompt_dicionario_parte_12.csv | Tempo: 0.27 min | Prompt tokens: 8356 | Saída tokens: 356 | Total tokens: 8712
