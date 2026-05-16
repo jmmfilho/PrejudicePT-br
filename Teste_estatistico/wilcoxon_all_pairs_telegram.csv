@@ -1,0 +1,46 @@
+model_1,model_2,statistic,p_value,significant
+BoW,Dic842,0.0,0.0625,False
+BoW,BERT,0.0,0.0625,False
+BoW,Dic9,0.0,0.0625,False
+BoW,LLM,0.0,0.0625,False
+TF-IDF,Dic9,0.0,0.0625,False
+TF-IDF,Dic842,0.0,0.0625,False
+TF-IDF,BERT,0.0,0.0625,False
+TF-IDF + Dic9,Dic9,0.0,0.0625,False
+BoW + Dic842,Dic842,0.0,0.0625,False
+BoW + Dic842,Dic9,0.0,0.0625,False
+BoW + Dic842,LLM,0.0,0.0625,False
+BoW + Dic9,LLM,0.0,0.0625,False
+BoW + Dic9,Dic9,0.0,0.0625,False
+BoW + Dic9,Dic842,0.0,0.0625,False
+BoW + Dic9,BERT,0.0,0.0625,False
+TF-IDF,LLM,0.0,0.0625,False
+BoW + Dic842,BERT,0.0,0.0625,False
+TF-IDF + Dic842,LLM,0.0,0.0625,False
+TF-IDF + Dic842,BERT,0.0,0.0625,False
+TF-IDF + Dic842,Dic842,0.0,0.0625,False
+Dic842,LLM,0.0,0.0625,False
+Dic842,BERT,0.0,0.0625,False
+Dic9,LLM,0.0,0.0625,False
+Dic9,BERT,0.0,0.0625,False
+Dic9,Dic842,0.0,0.0625,False
+TF-IDF + Dic9,LLM,0.0,0.0625,False
+TF-IDF + Dic9,BERT,0.0,0.0625,False
+TF-IDF + Dic9,Dic842,0.0,0.0625,False
+TF-IDF + Dic842,Dic9,0.0,0.0625,False
+BoW,TF-IDF + Dic9,1.0,0.125,False
+BoW,TF-IDF + Dic842,1.0,0.125,False
+BERT,LLM,1.0,0.125,False
+BoW + Dic9,TF-IDF + Dic9,3.0,0.3125,False
+BoW,TF-IDF,3.0,0.3125,False
+BoW + Dic9,TF-IDF + Dic842,3.0,0.3125,False
+BoW + Dic842,TF-IDF + Dic9,3.0,0.3125,False
+TF-IDF,BoW + Dic842,4.0,0.4375,False
+BoW + Dic842,TF-IDF + Dic842,4.0,0.4375,False
+BoW,BoW + Dic842,5.0,0.625,False
+TF-IDF,BoW + Dic9,5.0,0.625,False
+TF-IDF,TF-IDF + Dic842,6.0,0.8125,False
+TF-IDF + Dic9,TF-IDF + Dic842,6.0,0.8125,False
+BoW,BoW + Dic9,7.0,1.0,False
+TF-IDF,TF-IDF + Dic9,7.0,1.0,False
+BoW + Dic9,BoW + Dic842,5.0,1.0,False
